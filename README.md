@@ -59,14 +59,6 @@ Armenian: Native · Russian: Intermediate (B1–B2) · English: Elementary (A2),
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=VacheTadevosyan&theme=radical&hide_border=true" alt="Vache's GitHub streak" />
-</p>
-
----
-
 ### 📫 Connect with me:
 
 <p align="left">
