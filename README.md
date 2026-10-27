@@ -59,11 +59,10 @@ Armenian: Native · Russian: Intermediate (B1–B2) · English: Elementary (A2),
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VacheTadevosyan&show_icons=true&theme=radical&hide_border=true" alt="Vache's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VacheTadevosyan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=VacheTadevosyan&theme=radical&hide_border=true" alt="Vache's GitHub streak" />
 </p>
 
 ---
